@@ -6,6 +6,14 @@ Example repository of [textlint](https://github.com/textlint/textlint "textlint"
 
 ## 使い方
 
+インストール
+
+```
+git clone https://github.com/azu/textlint-preset-example.git
+cd textlint-preset-example
+npm install
+```
+
 以下のコマンドでtextlintを実行できます。
 
 ```
